@@ -1,8 +1,8 @@
-# proyectoflutter
+# Proyectoflutter
 
-Proyecto de Flutter.
+Proyecto del curso de Cognos de Flutter.
 
-## Getting Started
+## Descripción
 
 This project is a starting point for a Flutter application.
 
