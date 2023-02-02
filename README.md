@@ -8,6 +8,8 @@ Este proyecto es una aplicación de To-Dos y de contactos que nos permite crear 
 
 También podremos guardar nuestros contactos con su nombre teléfono y correo ambas características de la aplicacion son utilizando CloudFirestore y RealtimeDatabase utilizando inicio de sesión por correo electrónico y contraseña.
 
+Por último tenemos un Drawer a la izquierda que nos permite visualizar nuestro perfil con el correo y nombre de usuario que utilizamos al registrarnos en esta app.
+
 ![image](https://user-images.githubusercontent.com/107445085/216223814-1345385c-e597-41cc-8d9e-8df96e8e3acd.png)
 ![image](https://user-images.githubusercontent.com/107445085/216223965-25724f97-7364-4846-b3b2-3d6f242bbdf1.png)
 ![image](https://user-images.githubusercontent.com/107445085/216224023-aa716398-096a-4cdc-ab28-7791f171fd23.png)
